@@ -15,9 +15,8 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
+  - [Setup Instructions](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
   - [Screenshots](#screenshots)
   - [APK Download link](#apk-download)
   - [Appetize showcase](#appetize-showcase)
@@ -41,14 +40,14 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 <details>
-  <summary>Client</summary>
+  <summary>Dart</summary>
   <ul>
     <li><a href="https://dart.dev/">Dart</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Presentation</summary>
+  <summary>Flutter</summary>
   <ul>
     <li><a href="https://flutter.dev/">Flutter</a></li>
   </ul>
