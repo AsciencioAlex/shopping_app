@@ -16,14 +16,9 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
-<<<<<<< HEAD
   - [Setup Instructions](#setup)
   - [Prerequisites](#prerequisites)
-=======
-  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
->>>>>>> 3021551135c6f517062a995b1bbd859b48fe011e
   - [Screenshots](#screenshots)
   - [APK Download link](#apk-download)
   - [Appetize showcase](#appetize-showcase)
@@ -86,8 +81,8 @@ In order to run this project you need to install and have the following as follo
 
 
 ## Setup Instructions
-1. Clone the repository: `git clone https://github.com/AsciencioAlex/shopping-app.git`
-2. Navigate to the project directory: `cd shopping-app`
+1. Clone the repository: `git clone https://github.com/AsciencioAlex/shopping_app.git`
+2. Navigate to the project directory: `cd shopping_app`
 3. Run `flutter pub get` to install dependencies.
 4. Run the app on an emulator or physical device: `flutter run`
 
@@ -111,7 +106,8 @@ In order to run this project you need to install and have the following as follo
 👤 **Alex Asciencio**
 - GitHub: [@githubhandle](https://github.com/AsciencioAlex)
 - Twitter: [@twitterhandle](https://twitter.com/Codnetech)
-- LinkedIn: [LinkedIn](https://ke.linkedin.com/in/alex-asciencio-413612b9)  
+- LinkedIn: [LinkedIn](https://ke.linkedin.com/in/alex-asciencio-413612b9)
+- Medium: [https://medium.com/@asciencioalex]
 
 ## 🔭 Future Features <a name="future-features"></a>
 
