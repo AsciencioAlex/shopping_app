@@ -154,6 +154,3 @@ If you like this project feel free to clone it and take some features that will 
 
 This project is [MIT](./LICENSE) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-=======
-# shopping_app
->>>>>>> d5d944f076fa8968913c90c1441dee15090b496a
