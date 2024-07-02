@@ -105,7 +105,7 @@ In order to run this project you need to install and have the following as follo
 
 👤 **Alex Asciencio**
 - GitHub: [@githubhandle](https://github.com/AsciencioAlex)
-- Twitter: [@twitterhandle](https://twitter.com/Codnetech)
+- X: [@xhandle](https://x.com/Codnetech)
 - LinkedIn: [LinkedIn](https://ke.linkedin.com/in/alex-asciencio-413612b9)
 - Medium: [https://medium.com/@asciencioalex]
 
