@@ -15,8 +15,14 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
+<<<<<<< HEAD
   - [Setup Instructions](#setup)
   - [Prerequisites](#prerequisites)
+=======
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+>>>>>>> 3021551135c6f517062a995b1bbd859b48fe011e
   - [Screenshots](#screenshots)
   - [APK Download link](#apk-download)
   - [Appetize showcase](#appetize-showcase)
